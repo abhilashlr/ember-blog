@@ -17,13 +17,13 @@ READMORE
 ## [Feb 29th, 2020 - EmberJS Chennai Meetup 🇮🇳](https://www.youtube.com/playlist?list=PLh_rF0Qob_sxjhg9qPTlXn-6EZzmmTHoc)
 
 On February 29th 2020, EmberJS Chennai featured seven speakers at their third Meetup. They covered various topics that included:
-1. [Web development - the past and the present](https://slides.com/jayakrishnanamburu/web-dev#/) by [@JayaKrishnaNamburu](https://github.com/JayaKrishnaNamburu)
-2. [Picking a framework: React vs Angular vs Vue vs Ember](https://youtu.be/DT75xo7VXn4) by [@michaeldinesh9](https://twitter.com/michaeldinesh9)
-3. [Ember runloop](https://youtu.be/CU1ffqXtoR0) by [@srajas02](https://twitter.com/srajas02)
-4. [Ember model & relationships](https://youtu.be/__yX29lr6og) by [@ahamedalthaf](https://github.com/ahamedalthaf)
-5. [Frame communication with Ember](https://youtu.be/OYePMoIajQI) by [@Kishore01kumar](https://twitter.com/Kishore01kumar)
-6. [Design systems using Storybook](https://youtu.be/vOhpdSP4Nr0) by [@prasanth_lpk](https://twitter.com/prasanth_lpk); and
-7. [Finite state machines and Ember](https://youtu.be/0lFNUybdWJs) by [@ansankarganesh](https://twitter.com/ansankarganesh)
+- [Web development - the past and the present](https://slides.com/jayakrishnanamburu/web-dev#/) by [@JayaKrishnaNamburu](https://github.com/JayaKrishnaNamburu)
+- [Picking a framework: React vs Angular vs Vue vs Ember](https://youtu.be/DT75xo7VXn4) by [@michaeldinesh9](https://twitter.com/michaeldinesh9)
+- [Ember runloop](https://youtu.be/CU1ffqXtoR0) by [@srajas02](https://twitter.com/srajas02)
+- [Ember model & relationships](https://youtu.be/__yX29lr6og) by [@ahamedalthaf](https://github.com/ahamedalthaf)
+- [Frame communication with Ember](https://youtu.be/OYePMoIajQI) by [@Kishore01kumar](https://twitter.com/Kishore01kumar)
+- [Design systems using Storybook](https://youtu.be/vOhpdSP4Nr0) by [@prasanth_lpk](https://twitter.com/prasanth_lpk); and
+- [Finite state machines and Ember](https://youtu.be/0lFNUybdWJs) by [@ansankarganesh](https://twitter.com/ansankarganesh)
 
 You can [watch all six talks today on YouTube](https://www.youtube.com/playlist?list=PLh_rF0Qob_sxjhg9qPTlXn-6EZzmmTHoc). To learn more about EmberJS Chennai, you can visit their [website](https://chennaiemberjs.in/) and follow them on [Twitter](https://twitter.com/EmberChennai), [Meetup](https://www.meetup.com/EmberJS-Chennai/), and the [`#as-india`](https://discordapp.com/channels/480462759797063690/562648585980739616) channel on [Discord](https://discordapp.com/invite/zT3asNS)!
 
