@@ -17,7 +17,7 @@ READMORE
 ## [Feb 29th, 2020 - EmberJS Chennai Meetup 🇮🇳](https://www.youtube.com/playlist?list=PLh_rF0Qob_sxjhg9qPTlXn-6EZzmmTHoc)
 
 On February 29, EmberJS Chennai featured 7 speakers at their third Meetup. They covered various topics including:
-1. [Web development - the past and the present](https://slides.com/jayakrishnanamburu/web-dev#/) by [@askjkrishna](https://twitter.com/askjkrishna)
+1. [Web development - the past and the present](https://slides.com/jayakrishnanamburu/web-dev#/) by [@JayaKrishnaNamburu](https://github.com/JayaKrishnaNamburu)
 2. [Picking a framework: React vs Angular vs Vue vs Ember](https://youtu.be/DT75xo7VXn4) by [@michaeldinesh9](https://twitter.com/michaeldinesh9)
 3. [Ember runloop](https://youtu.be/CU1ffqXtoR0) by [@srajas02](https://twitter.com/srajas02)
 4. [Ember model & relationships](https://youtu.be/__yX29lr6og) by [@ahamedalthaf](https://github.com/ahamedalthaf)
